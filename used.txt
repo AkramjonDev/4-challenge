@@ -1,0 +1,7 @@
+useContext, useReducer, = counter
+
+Axios
+
+Framer Motion
+
+#savol javob
